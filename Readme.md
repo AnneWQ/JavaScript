@@ -1,0 +1,1 @@
+Simple but useful JS functions
